@@ -1,4 +1,3 @@
-# wc.py
 import argparse
 import sys
 
